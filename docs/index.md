@@ -8,7 +8,7 @@ The first term was focused on Computer Vision and Convolutional Neural Networks.
 
 ### Project 1 - Lane Line Detection
 
-[Description of the project.](LaneLines-P1/README.md)
+[Description of the project.](LaneLines-P1/index.md)
 
 ### Term 2
 
