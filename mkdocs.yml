@@ -1,0 +1,6 @@
+site_name: My SDC Nanodegree Docs
+pages:
+    - Home: index.md
+    - Term 1:
+        - 'Lane Lines': lanelines.md
+    - About: about.md
