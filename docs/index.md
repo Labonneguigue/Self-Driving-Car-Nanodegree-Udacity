@@ -8,7 +8,8 @@ The first term was focused on Computer Vision and Convolutional Neural Networks.
 
 ### Project 1 - Lane Line Detection
 
-[Description of the project.](lanelines.md)
+[Description of the project.](https://labonneguigue.github.io/CarND-LaneLines-P1/)
+[Same.](https://labonneguigue.github.io/CarND-LaneLines-P1/README.md)
 
 ### Term 2
 
