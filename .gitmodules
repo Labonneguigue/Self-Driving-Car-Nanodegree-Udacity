@@ -1,3 +1,6 @@
 [submodule "LaneLines-P1"]
 	path = LaneLines-P1
 	url = https://github.com/Labonneguigue/CarND-LaneLines-P1.git
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = CarND-Traffic-Sign-Classifier-Project
+	url = https://github.com/Labonneguigue/CarND-Traffic-Sign-Classifier-Project.git
