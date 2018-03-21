@@ -59,7 +59,13 @@ The Kalman Filters course was a great reminder from University. After the Extend
 
 ### ✏️ Project 11 - Path Planning
 
-..
+For this project Udacity provided us with a simulator where I can control a car on a highway, the goal being to plan a smooth and accident free path with regard to the other cars on the road. The simulator provides data about the surrounding cars as well as data about the map. I build my path planner by assembling together the following 3 essential modules of a Self-Driving Car:
+
+* Behavior Planner
+* Trajectory Generator
+* Predictor
+
+[Check out how I managed to successfully complete this project here.](https://labonneguigue.github.io/CarND-Path-Planning-Project/)
 
 ### ✏️ Project 12 - Functional Safety
 
